@@ -1,0 +1,6 @@
+<configuration>
+    <!--加载所有entity实体类-->
+    <typeAliases>
+        <package name="com.micrsevr.manager.entity"/>
+    </typeAliases>
+</configuration>
